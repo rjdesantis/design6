@@ -4,6 +4,7 @@
 > This work will contain:
 1. Documentation
 2. code
+3. labs
 > My team members for this work are:
 - Jarrett Aaronson
 - Dominic Vovk
