@@ -5,8 +5,7 @@ In this lab, I ran commands in the terminal.
 ![Screenshot 2024-02-20 155701](https://github.com/rjdesantis/design6/assets/123084804/0fb008b1-131c-4381-ad64-0df42158e5e3)
 ![Screenshot 2024-02-20 155718](https://github.com/rjdesantis/design6/assets/123084804/419d6806-7c44-49dd-8cef-5048e9c3f2cd)
 ![Screenshot 2024-02-20 155728](https://github.com/rjdesantis/design6/assets/123084804/e4d08031-310a-420a-bc7d-18c1541e48fa)
-**Nano file**
-I typed hello world into this file
+**Nano file** -I typed hello world into this file
 
 ![Screenshot 2024-02-20 155440](https://github.com/rjdesantis/design6/assets/123084804/525b1d72-3f43-4568-9854-bfcac7ccaa69)
 ![Screenshot 2024-02-20 160240](https://github.com/rjdesantis/design6/assets/123084804/85f2ef07-4c87-4fc1-8b1d-0b1443bf6cb5)
