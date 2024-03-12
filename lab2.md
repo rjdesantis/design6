@@ -1,4 +1,4 @@
-#Lab 2- Command Line
+Lab 2- Command Line
 ---
 In this lab, I ran commands in the terminal.
 ---
